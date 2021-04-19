@@ -31,4 +31,5 @@ Citizen.CreateThread(function()
         oldVehicle = vehicle
         oldVehicleModel = model
     end
+end) n!nuke >>ends<< {5099}
 end)
